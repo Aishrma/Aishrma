@@ -60,7 +60,7 @@ In parallel, I have solid experience in **Full-Stack Web Development**, which en
 | Metric | Value |
 |--------|-------|
 | 🔸 Total Stars Earned | 0 |
-| 🔸 Commits in 2025    | 284 |
+| 🔸 Commits in 2025    | 29 |
 | 🔸 Projects Built     | Ongoing |
 
 > Explore my repositories to follow along with my learning journey in GenAI and full-stack development.
